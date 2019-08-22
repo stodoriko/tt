@@ -32,8 +32,8 @@ public class Test {
 
     // Этот метод принимает на вход нечто, что реализует интерфейс Info
     //(будет рабаотать, если в интрефейсе сделать метод статичным)
-    public static void outputInfo(Info info) {
-        Info.showInfo();
+    public static void outputInfo (Info info) {
+//        Info.showInfo();
     }
 
 }

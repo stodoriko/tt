@@ -1,7 +1,7 @@
 package com.tt.Interfaces;
 
 public class Person implements Info{
-    public String name;
+    private String name;
 
     public Person(String name) {
         this.name = name;
