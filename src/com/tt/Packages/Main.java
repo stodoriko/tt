@@ -1,8 +1,8 @@
-package com.tt.Pacgages;
+package com.tt.Packages;
 
 // нужно для того, чтобы стали видимы классы
-import com.tt.Pacgages.Forest.Squirell;
-import com.tt.Pacgages.Forest.Tree;
+import com.tt.Packages.Forest.Squirell;
+import com.tt.Packages.Forest.Tree;
 // import com.tt.Pacgages.*; или так. Значит, что мы хотим импортировать все классы из пакета
 
 public class Main {

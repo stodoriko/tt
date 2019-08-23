@@ -1,4 +1,4 @@
-package com.tt.Pacgages.Forest;
+package com.tt.Packages.Forest;
 
 public class Tree {
     private String name;
