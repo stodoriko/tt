@@ -11,8 +11,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,13 +48,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.Modifiers.Package1.Test" />
+  <component name="RunManager" selected="Application.Exception3">
+    <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.Exception.Exception1" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.Modifiers.Package1.*" />
+          <option name="PATTERN" value="com.tt.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.Polimorfizm.Test" />
+    <configuration name="Exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.Exception.Exception2" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.Polimorfizm.*" />
+          <option name="PATTERN" value="com.tt.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.Static.Test" />
+    <configuration name="Exception3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.Exception.Exception3" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.Static.*" />
+          <option name="PATTERN" value="com.tt.Exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exception3" />
+        <item itemvalue="Application.Exception2" />
+        <item itemvalue="Application.Exception1" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (4)" />
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
