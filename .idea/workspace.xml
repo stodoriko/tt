@@ -48,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exception3">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tt.Exception.Exception1" />
       <module name="tt" />
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.Abstract.Test" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.Nested.Test" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.Abstract.*" />
+          <option name="PATTERN" value="com.tt.Nested.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Exception3" />
         <item itemvalue="Application.Exception2" />
         <item itemvalue="Application.Exception1" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (4)" />
       </list>
     </recent_temporary>
   </component>
