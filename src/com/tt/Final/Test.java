@@ -5,6 +5,6 @@ public class Test {
         final int X = 5;
         System.out.println(X);
         // тоже самое, менять значение конкстанты нельзя
-        X = 4;
+        //X = 4;
     }
 }
