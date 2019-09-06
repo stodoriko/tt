@@ -1,4 +1,4 @@
-package com.orealy.SeaBattle;
+package com.oreilly.SeaBattle;
 
 public class SimpleDotComTestDrive {
     public static void main(String[] args) {
