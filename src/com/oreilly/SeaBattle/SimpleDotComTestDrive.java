@@ -22,16 +22,15 @@ public class SimpleDotComTestDrive {
 
         while (isAlive == true) {
             // Получаем строку вводимую пользователем
-            while (resultUserInput == null) {
-                System.out.println(resultUserInput);
+            // while (resultUserInput == null) {
                 String userInput = helper.getUserInput("Введите число");
                 resultUserInput = simpleDotCom.checkYourSelf(userInput);
                 numOfGuess++;
-                if (resultUserInput.equals("Потопил")) {
+                if (resultUserInput.equals("Потопил!")) {
                     isAlive = false;
-                    System.out.println("Вам потребовалась" + numOfGuess + " попыток(ки)");
+                    System.out.println("Вам потребовалась " + numOfGuess + " попыток(ки)");
                 }
-            }
+            //}
         }
     }
 }

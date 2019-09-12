@@ -17,10 +17,12 @@ public class SimpleDotCom {
 //        while (userGuess != null) {
         if (userInput == null) {
             System.out.println("Вы ничего не указали.");
+            result = "Вы ничего не указали.";
         } else {
 //        }
             int intUserInput = Integer.parseInt(userInput);
-            String result = "Мимо";
+
+            result = "Мимо";
 
             for (int cell : locationCells) {
                 if (cell == intUserInput) {
@@ -34,8 +36,6 @@ public class SimpleDotCom {
                 result = "Потопил!";
             }
             System.out.println(result);
-            this.result = result;
-            return result;
         }
         return result;
     }
