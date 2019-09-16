@@ -18,9 +18,7 @@ public class Test {
         linkedList.remove(0);
          */
 
-        // LinkedList хранит в себе цепочку объектов head -> [0] -> [1] -> [2]
         List<Integer> linkedList = new LinkedList<>();
-        // ArrayList хранит внутренний массив [0][1][2][3][4]
         List<Integer> arrayList = new ArrayList<>();
 
         measureTime(linkedList);
@@ -30,21 +28,28 @@ public class Test {
 
     public static void measureTime(List<Integer> list) {
 
-        // получается, что добавление элементов в массив эффективнее делать с использованием arrayList
-        for (int i = 0; i < 1000000; i++) {
-            list.add(i);
-        }
+        long start = System.currentTimeMillis();
+
+        // добавление в конец листа в LinkedList --    head -> [5] -> [1] -> [2] -> [3] -> [4] не хранится массив, а хранится цепочка объектов(узлы)
+        // добавление в конец листа в ArrayList -- [1][2][3][4][5][6], просто добавляется элмент в конец массива
+        // получается, что добавление элементов в массив эффективнее делать с использованием ArrayList
+//        for (int i = 0; i < 100000; i++) {
+//            list.add(i);
+//        }
+
+        // добавление новых элементов в начало листа в LinkedList [] -> [1][0] -> [2][1][0] -> [3][2][1][0]
+        // добавление новых элементов в начало листа в ArrayList -- [6][1][2][3][4][5], занимает много врмени, т.к. все элементы массива сдвигаются вправо
         // здесь картина противоположная, уже сильно выигрывает linkedList
         for (int b = 0; b < 100000; b++) {
             list.add(0, b);
         }
 
-        long start = System.currentTimeMillis();
 
-        // здесь разница совсем огромная
-        for (int a = 0; a < 100000; a++) {
-            list.get(a);
-        }
+        // получение из конца массива
+        // и получать значения из массива эффективнее из ArrayList, т.к. по LinkedList необходимо пройти по всей цепочке объектов
+//        for (int a = 0; a < 100000; a++) {
+//            list.get(a);
+//        }
 
         long end = System.currentTimeMillis();
 
