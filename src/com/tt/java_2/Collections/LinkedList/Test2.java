@@ -1,4 +1,4 @@
-package com.tt.java_2.LinkedList;
+package com.tt.java_2.Collections.LinkedList;
 
 public class Test2 {
     public static void main(String[] args) {

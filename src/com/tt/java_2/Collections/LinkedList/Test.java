@@ -1,4 +1,4 @@
-package com.tt.java_2.LinkedList;
+package com.tt.java_2.Collections.LinkedList;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
