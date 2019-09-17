@@ -45,8 +45,8 @@
       <recent name="com.oreilly.SeaBattle" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/tt/java_2/LinkedList" />
       <recent name="$PROJECT_DIR$/src/com/tt/java_2/Collections" />
+      <recent name="$PROJECT_DIR$/src/com/tt/java_2/LinkedList" />
       <recent name="$PROJECT_DIR$/src/com/tt/java_2" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -63,13 +63,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
-    <configuration name="SimpleDotComTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.oreilly.SeaBattle.SimpleDotComTestDrive" />
+  <component name="RunManager" selected="Application.HashMap">
+    <configuration name="HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_2.Collections.HashMap" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.oreilly.SeaBattle.*" />
+          <option name="PATTERN" value="com.tt.java_2.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMap" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.SimpleDotComTestDrive" />
       </list>
     </recent_temporary>
   </component>
