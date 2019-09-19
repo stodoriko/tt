@@ -1,4 +1,4 @@
-package com.tt.java_2.Collections;
+package com.tt.java_2.Collections.Map;
 
 import java.util.Map;
 

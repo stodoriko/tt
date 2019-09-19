@@ -63,26 +63,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashMap">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_2.Collections.HashMap" />
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_2.Collections.Map.HashMap" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.java_2.Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Switch.Switch" />
-      <module name="tt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tt.java_1.Switch.*" />
+          <option name="PATTERN" value="com.tt.java_2.Collections.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +104,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_2.Collections.LinkedList.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_2.Collections.Map.Test" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.java_2.Collections.LinkedList.*" />
+          <option name="PATTERN" value="com.tt.java_2.Collections.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.HashMap" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
