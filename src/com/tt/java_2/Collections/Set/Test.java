@@ -11,12 +11,14 @@ public class Test {
         Set<String> linkedHashSet = new LinkedHashSet<>();
         Set<String> treeSet = new TreeSet<>();
 
-        hashSet.add("Sergei");
-        hashSet.add("Irina");
-        hashSet.add("Vlad");
-        hashSet.add("Bob");
-        hashSet.add("Tom");
-        hashSet.add("Tom"); // Если дубль, то будет проигнорировано
+
+
+        Set.add("Sergei");
+        Set.add("Irina");
+        Set.add("Vlad");
+        Set.add("Bob");
+        Set.add("Tom");
+        Set.add("Tom"); // Если дубль, то будет проигнорировано
 
         for (String name : hashSet) {
             System.out.println(name);
