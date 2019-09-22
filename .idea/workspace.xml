@@ -35,17 +35,17 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.oreilly.SeaBattle" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/tt/java_2/Collections" />
       <recent name="$PROJECT_DIR$/src/com/tt/java_2/LinkedList" />
       <recent name="$PROJECT_DIR$/src/com/tt/java_2" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.oreilly.SeaBattle" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayL">
+  <component name="RunManager" selected="Application.Test (3)">
     <configuration name="ArrayL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tt.java_2.Collections.ArrayList.ArrayL" />
       <module name="tt" />
@@ -128,8 +128,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayL" />
         <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.ArrayL" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.HashMap" />
         <item itemvalue="Application.Test (2)" />
