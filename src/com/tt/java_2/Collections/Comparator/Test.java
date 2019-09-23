@@ -30,9 +30,24 @@ public class Test {
 
 
         List<Person> people = new ArrayList<>();
-        people.add(new Person(1, "Bob"));
+        people.add(new Person(3, "Bob"));
         people.add(new Person(2, "Tod"));
-        people.add(new Person(3, "Mike"));
+        people.add(new Person(1, "Mike"));
+
+        // сортируем по-возрастанию
+        Collections.sort(people, new Comparator<Person>() {
+            @Override
+            public int compare(Person o1, Person o2) {
+                if (o1.getId() > o2.getId()) {
+                    return 1;
+                } else if (o1.getId() < o2.getId()) {
+                    return -1;
+                } else {
+                    return 0;
+                }
+            }
+        });
+        System.out.println(people);
 
     }
 }
@@ -77,6 +92,10 @@ class Person {
     public Person(int id, String name) {
         this.id = id;
         this.name = name;
+    }
+
+    public int getId() {
+        return id;
     }
 
     @Override
