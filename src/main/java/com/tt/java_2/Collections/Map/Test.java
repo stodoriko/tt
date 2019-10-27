@@ -1,6 +1,5 @@
 package com.tt.java_2.Collections.Map;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.TreeMap;
