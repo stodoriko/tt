@@ -1,83 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="git add *.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/git/checkout" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oreilly/Getter/Getter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oreilly/Getter/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oreilly/SeaBattle/GameHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oreilly/SeaBattle/SimpleDotCom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/oreilly/SeaBattle/SimpleDotComTestDrive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Abstract/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Abstract/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Abstract/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Abstract/OutherMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Abstract/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Anonim/AbleToEat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Anonim/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Downcasting_and_upcasting/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Downcasting_and_upcasting/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Downcasting_and_upcasting/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Enum/Month.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Enum/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Exception/Exception1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Exception/Exception2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Exception/Exception3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Exception/Exception4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Exception/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Exception/TodorikoException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Final/Constant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Final/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Generics/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Interfaces/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Interfaces/Info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Interfaces/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Interfaces/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Modifiers/Package1/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Modifiers/Package1/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Modifiers/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Nested/Electrocar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Nested/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Packages/Forest/Squirell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Packages/Forest/Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Packages/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Polimorfizm/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Polimorfizm/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Polimorfizm/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Polimorfizm/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/PrimitiveType/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/ReadingFromFile/ReadingFromFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Recursion/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Static/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Static/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Switch/Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/This/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/This/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Wildcards/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Wildcards/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Wildcards/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/Wrapper/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_1/WriteToFile/WriteToFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/ArrayList/ArrayL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/ArrayList/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/Comparable/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/Comparator/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/Iterable/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/Java-collection-framework-hierarchy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/LinkedList/LinkedList.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/LinkedList/MyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/LinkedList/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/LinkedList/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/Map/HashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/Map/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/Queue/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/Set/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/Stack/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/hashCode_and_equals_methods/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tt/java_2/Collections/Снимок экрана 2019-09-22 в 19.10.12.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
