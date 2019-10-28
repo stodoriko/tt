@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="git add *.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/git/checkout" afterDir="false" />
+    <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/git/checkout" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/git/checkout" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,6 +156,14 @@
       <option name="presentableId" value="Default" />
       <updated>1566143829946</updated>
     </task>
+    <task id="LOCAL-00001" summary="Revert &quot;test for git reset --soft HEAD&quot;&#10;&#10;This reverts commit 46042a0a">
+      <created>1572297669479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572297669479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +180,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;test for git reset --soft HEAD&quot;&#10;&#10;This reverts commit 46042a0a" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;test for git reset --soft HEAD&quot;&#10;&#10;This reverts commit 46042a0a" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
