@@ -8,7 +8,7 @@ public class Test {
     public static void main(String[] args) {
 
         // Внутри не гарантируется никакого порядка
-        Map<Integer, String> hashMap = new HashMap<>();
+//        Map<Integer, String> hashMap = new HashMap<>();
 
         // В каком порядке пары(ключ + значение) были добавлены в таком порядке они и вернутся
         Map<Integer, String> linkedHashMap = new LinkedHashMap<>();
@@ -16,7 +16,7 @@ public class Test {
         // Пары(клбч + значение) сортируются по ключу (естественный порядк)
         Map<Integer, String> treeMap = new TreeMap<>();
 
-        testMap(hashMap);
+//        testMap(hashMap);
         testMap(linkedHashMap);
         testMap(treeMap);
     }

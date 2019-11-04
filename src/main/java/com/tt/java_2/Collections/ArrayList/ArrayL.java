@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class ArrayL{
     public static void main(String[] args) {
-        ArrayList<String> a = new java.util.ArrayList<>();
+        ArrayList<String> a = new java.util.ArrayList<String>();
         a.add(0, "ноль");
         a.add(1, "один");
         a.add(2, "два");
