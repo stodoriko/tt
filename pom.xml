@@ -46,6 +46,12 @@
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.8.1</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/ru.sbtqa.tag.pagefactory/page-factory-core -->
+        <dependency>
+            <groupId>ru.sbtqa.tag.pagefactory</groupId>
+            <artifactId>page-factory-core</artifactId>
+            <version>14.9.0</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>

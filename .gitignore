@@ -1,0 +1,19 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Windows shortcuts
+*.link
+.project
+.setting
+.classpath
+.factorypath
+
+# IntellijIdea files
+
+.idea
+*.iml
+nb-configuration.xml
+nbaction.xml
+/page-factory/
