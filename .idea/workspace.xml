@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="" />
+    <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/ryanair/CucumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Authorization.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/features/1_Authorization" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tt.iml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +33,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/Soft/apache-maven-3.6.2" />
+        <option name="mavenHome" value="C:/Program Files/Apache/apache-maven-3.6.2" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -43,22 +49,22 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Автоматизация/selenium-server-standalone-3.141.59.jar!/" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\JavaProjects\tt" />
-      <recent name="C:\JavaProjects\tt\src" />
-      <recent name="$PROJECT_DIR$/src/com/tt/java_2/Collections" />
-      <recent name="$PROJECT_DIR$/src/com/tt/java_2/LinkedList" />
-      <recent name="$PROJECT_DIR$/src/com/tt/java_2" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ru.ryanair" />
       <recent name="com.oreilly.SeaBattle" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JavaProjects\tt\src\test" />
+      <recent name="C:\JavaProjects\tt\src\main\resources" />
+      <recent name="C:\JavaProjects\tt" />
+      <recent name="C:\JavaProjects\tt\src" />
+      <recent name="$PROJECT_DIR$/src/com/tt/java_2/Collections" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -73,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Login.login (1)">
+  <component name="RunManager" selected="JUnit.CucumberTest">
     <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tt.java_2.Collections.Iterable.Test" />
       <module name="tt" />
@@ -103,6 +109,17 @@
     <configuration name="WebDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.ryanair.WebDriver" />
       <module name="tt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTest" type="JUnit" factoryName="JUnit">
+      <module name="tt" />
+      <option name="PACKAGE_NAME" value="ru.ryanair" />
+      <option name="MAIN_CLASS_NAME" value="ru.ryanair.CucumberTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,6 +156,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test (5)" />
+      <item itemvalue="Application.WebDriver" />
+      <item itemvalue="JUnit.CucumberTest" />
+      <item itemvalue="JUnit.Login.login" />
+      <item itemvalue="JUnit.Login.login (1)" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Login.login (1)" />
