@@ -9,6 +9,7 @@
 .setting
 .classpath
 .factorypath
+target
 
 # IntellijIdea files
 

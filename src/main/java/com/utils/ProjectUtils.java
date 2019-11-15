@@ -9,6 +9,21 @@ public abstract class ProjectUtils {
 
     private static Logger logger = getLogger(ProjectUtils.class);
 
+    private ProjectUtils() {
+        super();
+    }
+
+    public static void sleep(int seconds) {
+        try {
+            if (seconds > 10) {
+                logger.info("Sleep {}", seconds);
+            }
+            Thread.sleep(seconds * 1000L);
+        } catch (Exception e) {
+            logger.error(e.getMessage(), e);
+        }
+    }
+
     public static void confirmSSLError() {
         if (getWebDriver().getCurrentUrl().contains("SSLError")) {
             logger.info("Solving ssl error...");
