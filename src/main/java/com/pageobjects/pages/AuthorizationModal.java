@@ -28,7 +28,7 @@ public class AuthorizationModal extends AbstractPage {
     @FindBy(xpath = "//input[contains(@id, 'password')]")
     private TextInput passwordInput;
 
-    public void initAuthorizationPage() {
+    public void initAuthorizationModalPage() {
         initElements(new HtmlElementDecorator(new HtmlElementLocatorFactory(getWebDriver())), this);
     }
 
@@ -55,10 +55,6 @@ public class AuthorizationModal extends AbstractPage {
             logger.info("Password was failed...");
         }
         return this;
-    }
-
-    public AuthorizationModal() {
-        getMainPage();
     }
 
 }
