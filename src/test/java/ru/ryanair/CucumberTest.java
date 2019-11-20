@@ -1,15 +1,15 @@
 package ru.ryanair;
 
-import io.cucumber.junit.CucumberOptions;
+import cucumber.api.CucumberOptions;
+import io.cucumber.junit.Cucumber;
 import org.junit.runner.RunWith;
-import ru.sbtqa.tag.cucumber.TagCucumber;
 
-@RunWith(TagCucumber.class)
+@RunWith(Cucumber.class)
 @CucumberOptions(
         monochrome = true,
-        features = "src/test/resources/features",
+        features = ("src/test/resources/features"),
         glue = "ru.ryanair.stepdefs",
-        tags = {"@authorization"}
+        tags = {"@all"}
 )
 public class CucumberTest {
 }
