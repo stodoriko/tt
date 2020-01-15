@@ -20,15 +20,8 @@ class Human {
         this.birthPlace = birthPlace;
 
         String fullInfo = firstName + " " + lastName + "; " + age + "; " + gender + "; " + birthPlace;
-
-        for (int i = 0; i == humansList.size(); i++) {
-            humansList.add(fullInfo);
-        }
-
+        humansList.add(fullInfo);
         System.out.println(humansList.toString());
     }
 
-    public String getFullInfo() {
-        return fullInfo;
-    }
 }
