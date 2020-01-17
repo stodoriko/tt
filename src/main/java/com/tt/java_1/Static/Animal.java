@@ -11,6 +11,7 @@ public class Animal {
     public Animal(String name, int age, double weight, boolean healthy) {
         if (name.equals("")) {
             this.name = "Имя не указано!";
+            System.out.println(this.name);
         } else {
             this.name = name;
         }
@@ -21,9 +22,10 @@ public class Animal {
             System.out.println("Возраст не указан. Присваивается " + age);
         }
 
-        if (weight > 200) {
+        if (weight >= 200) {
             System.out.println("Нафига такой здоровый?");
-        } else {
+            this.weight = weight;
+        } else if (weight < 200){
             this.weight = weight;
         }
 
