@@ -30,5 +30,10 @@ public class Test {
         // Не создаются дополнительные объекты, соответсвенно повышается скорость выполнения.
         sb1.append(" Moscow").append(" Champion!");
         System.out.println(sb1);
+
+        // Метод форматирует строку и вставляет значение строковой переменной на место %
+        System.out.printf("Меня зовут %s", "Сергей");
+        System.out.println("");
+        System.out.printf("Сейчас %d год ", 2020);
     }
 }
