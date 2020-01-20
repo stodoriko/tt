@@ -6,4 +6,7 @@ public interface Info {
     // у методов интерфейса не может быть реализации
 
     public void showInfo();
+
+    public int getSalary();
+
 }

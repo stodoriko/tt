@@ -28,12 +28,21 @@ public class Test {
         Person person2 = new Person("Vlad");
         outputInfo(animal2); // работает, поптому-что классы реализуют интерфейс Info, соответственно в качестве аргуента можно
         outputInfo(person2); // передавать экземпляры этих классов
+
+
+        Info person3 = new Person("Sam", 52000);
+        getSalary(person3);
     }
 
     // Этот метод принимает на вход нечто, что реализует интерфейс Info
     //(будет рабаотать, если в интрефейсе сделать метод статичным)
     public static void outputInfo (Info info) {
         info.showInfo();
+    }
+
+
+    public static void getSalary (Info salary) {
+        salary.getSalary();
     }
 
 }

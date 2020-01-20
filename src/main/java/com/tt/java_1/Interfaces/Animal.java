@@ -15,4 +15,9 @@ public class Animal implements Info { // класс может реализов�
     public void showInfo() {
         System.out.println("Id is " + this.id);
     }
+
+    @Override
+    public int getSalary() {
+        return 0;
+    }
 }
