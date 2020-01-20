@@ -1,6 +1,6 @@
 package com.tt.java_1.Interfaces;
 
-public class Person implements Info{
+public class Person implements Info {
     private String name;
 
     public Person(String name) {
