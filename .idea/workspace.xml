@@ -82,13 +82,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CucumberTest">
+  <component name="RunManager" selected="Application.Test (3)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Downcasting_and_upcasting.Test" />
+      <module name="tt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tt.java_1.Downcasting_and_upcasting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Enum.Test" />
+      <module name="tt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tt.java_1.Enum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_2.Collections.Iterable.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Interfaces.Test" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.java_2.Collections.Iterable.*" />
+          <option name="PATTERN" value="com.tt.java_1.Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,22 +122,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_2.Collections.Stack.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Abstract.Test" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.java_2.Collections.Stack.*" />
+          <option name="PATTERN" value="com.tt.java_1.Abstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WebDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.ryanair.WebDriver" />
-      <module name="tt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,37 +162,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru" />
-      <option name="MAIN_CLASS_NAME" value="ru.Login" />
-      <option name="METHOD_NAME" value="login" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Test (3)" />
-      <item itemvalue="Application.Test (5)" />
-      <item itemvalue="Application.WebDriver" />
       <item itemvalue="JUnit.CucumberTest" />
-      <item itemvalue="JUnit.Login.login" />
       <item itemvalue="JUnit.Login.login (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Login.login (1)" />
-        <item itemvalue="JUnit.Login.login" />
-        <item itemvalue="Application.WebDriver" />
         <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.Login.login (1)" />
       </list>
     </recent_temporary>
   </component>

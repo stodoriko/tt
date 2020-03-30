@@ -14,7 +14,7 @@ public enum Month {
     AUGUST("Август",25),
     SEPTEMBER("Сентябрь",15),
     OCTOMBER("Октябрь",10),
-    NOVEMBER("Ноябрь",0),
+    NOVEMBER("Ноябрь",-5),
     DECEMBER("Декабрь", -10);
 
     private String translation;

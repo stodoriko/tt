@@ -1,6 +1,6 @@
 package com.tt.java_1.Modifiers.Package1;
 
-public class Test {
+public class Test extends Person{
     public static void main(String[] args) {
 
         //private пример

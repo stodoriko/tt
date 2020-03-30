@@ -11,4 +11,9 @@ public class Dog extends Animal implements OutherMethods{
     public void makeSound() {
         System.out.println("Гав");
     }
+
+    @Override
+    public void dance() {
+
+    }
 }

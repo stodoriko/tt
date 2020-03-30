@@ -23,4 +23,9 @@ public class Cat extends Animal implements OutherMethods{
         System.out.println("Мяу");
     }
 
+    @Override
+    public void dance() {
+
+    }
+
 }

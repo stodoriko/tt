@@ -4,10 +4,11 @@ public class Test {
     public static void main(String[] args) {
         Month month = Month.APRILL;
         System.out.println(month.getTranslation());
+        System.out.println("---");
         System.out.println(month);
         System.out.println(month.getTemperature());
         System.out.println(month.getInfo());
-
+        System.out.println("---");
         // Возвращает название энама в виде строки, так как он задекларирован
         System.out.println(month.name());
 

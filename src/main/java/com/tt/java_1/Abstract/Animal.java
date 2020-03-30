@@ -10,6 +10,10 @@ public abstract class Animal {
         System.out.println("I am sleeping");
     }
 
+    public void walk() {
+
+    }
+
     public abstract void makeSound(); // т.к. метод абстрактный, то в классах наследниках необходима его реализация
 
 }
