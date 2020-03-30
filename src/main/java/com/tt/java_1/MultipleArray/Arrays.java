@@ -1,4 +1,4 @@
-package com.tt.java_1;
+package com.tt.java_1.MultipleArray;
 
 public class Arrays {
     public static void main(String[] args) {
