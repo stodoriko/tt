@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_1/Scanner/Test8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ryanair/CucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ryanair/CucumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Authorization.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Authorization.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tt.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,19 +53,19 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ru.ryanair" />
-      <recent name="com.oreilly.SeaBattle" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\JavaProjects\tt\src\test" />
       <recent name="C:\JavaProjects\tt\src\main\resources" />
       <recent name="C:\JavaProjects\tt" />
       <recent name="C:\JavaProjects\tt\src" />
       <recent name="$PROJECT_DIR$/src/com/tt/java_2/Collections" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.ryanair" />
+      <recent name="com.oreilly.SeaBattle" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -82,20 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Downcasting_and_upcasting.Test" />
-      <module name="tt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tt.java_1.Downcasting_and_upcasting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test8">
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Enum.Test" />
       <module name="tt" />
@@ -122,12 +107,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Abstract.Test" />
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Scanner.Test6" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.java_1.Abstract.*" />
+          <option name="PATTERN" value="com.tt.java_1.Scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Scanner.Test7" />
+      <module name="tt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tt.java_1.Scanner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Scanner.Test8" />
+      <module name="tt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tt.java_1.Scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,37 +157,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login.login (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.ryanair.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.ryanair" />
-      <option name="MAIN_CLASS_NAME" value="ru.ryanair.Login" />
-      <option name="METHOD_NAME" value="login" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test6" />
+      <item itemvalue="Application.Test7" />
       <item itemvalue="JUnit.CucumberTest" />
-      <item itemvalue="JUnit.Login.login (1)" />
+      <item itemvalue="Application.Test8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test8" />
+        <item itemvalue="Application.Test7" />
+        <item itemvalue="Application.Test6" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="JUnit.Login.login (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573831896671</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="123">
+      <created>1585563763852</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585563763852</updated>
+    </task>
+    <task id="LOCAL-00007" summary="JR 4.7">
+      <created>1585571853020</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585571853020</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +259,20 @@
     <MESSAGE value="allure" />
     <MESSAGE value="first junit" />
     <MESSAGE value="18:29" />
-    <option name="LAST_COMMIT_MESSAGE" value="18:29" />
+    <MESSAGE value="123" />
+    <MESSAGE value="JR 4.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="JR 4.7" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tt/java_1/Scanner/Test8.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
