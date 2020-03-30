@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Test9 {
 
-
+//    Ввести с клавиатуры три целых числа. Вывести на экран количество положительных чисел среди этих трех.
 
     public static void main(String[] args) {
 
@@ -20,5 +20,6 @@ public class Test9 {
             }
         }
         System.out.println(Integer.valueOf(inputPlus));
+
     }
 }
