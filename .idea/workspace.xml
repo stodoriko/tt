@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tt/java_1/Scanner/Test9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_1/Scanner/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_1/Scanner/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_1/While/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_1/While/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_1/While/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,13 +82,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test9">
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Interfaces.Test" />
+  <component name="RunManager" selected="Application.Test3">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.While.Test1" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.java_1.Interfaces.*" />
+          <option name="PATTERN" value="com.tt.java_1.While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Scanner.Test6" />
+    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Scanner.Test10" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
@@ -105,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Scanner.Test7" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.While.Test2" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.java_1.Scanner.*" />
+          <option name="PATTERN" value="com.tt.java_1.While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.Scanner.Test8" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.While.Test3" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tt.java_1.Scanner.*" />
+          <option name="PATTERN" value="com.tt.java_1.While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,20 +160,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test (3)" />
-      <item itemvalue="Application.Test6" />
-      <item itemvalue="Application.Test7" />
-      <item itemvalue="JUnit.CucumberTest" />
-      <item itemvalue="Application.Test8" />
       <item itemvalue="Application.Test9" />
+      <item itemvalue="Application.Test10" />
+      <item itemvalue="JUnit.CucumberTest" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.Test3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test10" />
         <item itemvalue="Application.Test9" />
-        <item itemvalue="Application.Test8" />
-        <item itemvalue="Application.Test7" />
-        <item itemvalue="Application.Test6" />
-        <item itemvalue="Application.Test (3)" />
       </list>
     </recent_temporary>
   </component>
