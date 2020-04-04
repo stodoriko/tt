@@ -13,6 +13,7 @@ public class Test1 {
 
         double sum = 0;
 
+
         Scanner scanner = new Scanner(System.in);
         ArrayList list = new ArrayList();
 
