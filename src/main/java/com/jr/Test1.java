@@ -10,10 +10,12 @@ public class Test1 {
 //        Если пользователь ввел -1, вывести на экран среднее арифметическое всех чисел и завершить программу.
 //                -1 не должно учитываться.
 
+
         double sum = 0;
 
         Scanner scanner = new Scanner(System.in);
         ArrayList list = new ArrayList();
+
 
 
         for (int i = 0; i < i+1; i++) {
