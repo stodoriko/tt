@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="">
+    <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="JR 4.7">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_1/While/Test4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -44,15 +44,22 @@
   </component>
   <component name="ProjectId" id="1PbXa7f0e9KueGXByjCGIqvPoB3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Автоматизация/selenium-server-standalone-3.141.59.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -66,18 +73,6 @@
       <recent name="ru.ryanair" />
       <recent name="com.oreilly.SeaBattle" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Test4">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -158,11 +153,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test10" />
-      <item itemvalue="JUnit.CucumberTest" />
       <item itemvalue="Application.Test1" />
       <item itemvalue="Application.Test2" />
       <item itemvalue="Application.Test3" />
       <item itemvalue="Application.Test4" />
+      <item itemvalue="JUnit.CucumberTest" />
     </list>
     <recent_temporary>
       <list>
@@ -262,6 +257,36 @@
     <MESSAGE value="JR 4.7" />
     <option name="LAST_COMMIT_MESSAGE" value="JR 4.7" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586035844231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586035844231" />
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586034363518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586034363518" />
+    <state x="590" y="103" key="CommitChangelistDialog2" timestamp="1586036327811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="103" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586036327811" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1586035572937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586035572937" />
+    <state x="781" y="230" key="RollbackChangesDialog" timestamp="1586036274998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586036274998" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1586036258380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586036258380" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1586035521616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586035521616" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
