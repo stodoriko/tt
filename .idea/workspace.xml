@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="JR 4.7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_1/While/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tt/java_1/While/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_1/While/Test4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +30,6 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="C:/Program Files/Apache/apache-maven-3.6.2" />
-      </MavenGeneralSettings>
-    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -72,18 +68,6 @@
       <recent name="ru.ryanair" />
       <recent name="com.oreilly.SeaBattle" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Test4">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -289,22 +273,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="590" y="103" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586036327811" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1586035572937">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1586445015621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586035572937" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586445015621" />
     <state x="781" y="230" key="RollbackChangesDialog" timestamp="1586036274998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="781" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586036274998" />
-    <state x="461" y="151" key="SettingsEditor" timestamp="1586036258380">
+    <state x="461" y="151" key="SettingsEditor" timestamp="1586445022444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586036258380" />
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1586035521616">
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586445022444" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1586441615062">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586035521616" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586441615062" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1586443653590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586443653590" />
+    <state x="706" y="310" key="git4idea.merge.GitPullDialog" timestamp="1586445035770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="706" y="310" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586445035770" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
