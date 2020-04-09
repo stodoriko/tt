@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="JR 4.7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tt/java_1/While/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_1/While/Test4.java" afterDir="false" />
-    </list>
+    <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="JR 4.7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -231,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586099294439</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Тест">
+      <created>1586445323831</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586445323831</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,7 +261,8 @@
     <MESSAGE value="18:29" />
     <MESSAGE value="123" />
     <MESSAGE value="JR 4.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="JR 4.7" />
+    <MESSAGE value="Тест" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тест" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -269,26 +274,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586034363518" />
-    <state x="590" y="103" key="CommitChangelistDialog2" timestamp="1586036327811">
+    <state x="590" y="103" key="CommitChangelistDialog2" timestamp="1586445321871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="590" y="103" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586036327811" />
+    <state x="590" y="103" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586445321871" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1586445015621">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586445015621" />
-    <state x="781" y="230" key="RollbackChangesDialog" timestamp="1586036274998">
+    <state x="781" y="230" key="RollbackChangesDialog" timestamp="1586445366236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="781" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586036274998" />
-    <state x="461" y="151" key="SettingsEditor" timestamp="1586445022444">
+    <state x="781" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586445366236" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1586445483315">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586445022444" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1586441615062">
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586445483315" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1586445326546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586441615062" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586445326546" />
     <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1586443653590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
