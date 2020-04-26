@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c96b11ff-478e-4a3b-981a-ad6e0267ebb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/ConsoleReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/Distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/level6/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/level6/StringHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,20 @@
       <recent name="com.oreilly.SeaBattle" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConsoleReader">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jr.level6.Calculator" />
+      <module name="tt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jr.level6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConsoleReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jr.level6.ConsoleReader" />
       <module name="tt" />
@@ -114,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jr.Test1" />
+    <configuration name="StringHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jr.level6.StringHelper" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
@@ -140,19 +152,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tt.java_1.While.Test4" />
-      <module name="tt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tt.java_1.While.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CucumberTest" type="JUnit" factoryName="JUnit">
       <module name="tt" />
       <option name="PACKAGE_NAME" value="ru.ryanair" />
@@ -165,20 +164,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test4" />
-      <item itemvalue="Application.Test2 (1)" />
-      <item itemvalue="Application.Test1 (1)" />
+      <item itemvalue="Application.Test2" />
       <item itemvalue="Application.Distance" />
-      <item itemvalue="JUnit.CucumberTest" />
       <item itemvalue="Application.ConsoleReader" />
+      <item itemvalue="Application.StringHelper" />
+      <item itemvalue="JUnit.CucumberTest" />
+      <item itemvalue="Application.Calculator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.StringHelper" />
         <item itemvalue="Application.ConsoleReader" />
         <item itemvalue="Application.Distance" />
-        <item itemvalue="Application.Test2 (1)" />
-        <item itemvalue="Application.Test1 (1)" />
-        <item itemvalue="Application.Test4" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586445506617</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="jr -- level6">
+      <created>1587578000396</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587578000396</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,7 +294,8 @@
     <MESSAGE value="123" />
     <MESSAGE value="JR 4.7" />
     <MESSAGE value="Тест" />
-    <option name="LAST_COMMIT_MESSAGE" value="Тест" />
+    <MESSAGE value="jr -- level6" />
+    <option name="LAST_COMMIT_MESSAGE" value="jr -- level6" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -309,10 +315,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587400074569" />
-    <state x="590" y="103" key="CommitChangelistDialog2" timestamp="1586445505507">
+    <state x="590" y="103" key="CommitChangelistDialog2" timestamp="1587577998114">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="590" y="103" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586445505507" />
+    <state x="590" y="103" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587577998114" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1587401871548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -321,22 +327,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587400803626" />
-    <state width="1876" height="220" key="GridCell.Tab.0.bottom" timestamp="1587577453280">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1587894834901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587577453280" />
-    <state width="1876" height="220" key="GridCell.Tab.0.center" timestamp="1587577453280">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587894834901" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1587894834901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587577453280" />
-    <state width="1876" height="220" key="GridCell.Tab.0.left" timestamp="1587577453280">
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587894834901" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1587894834901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587577453280" />
-    <state width="1876" height="220" key="GridCell.Tab.0.right" timestamp="1587577453280">
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587894834901" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1587894834901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587577453280" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587894834901" />
     <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1587452285163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -361,10 +367,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587400698504" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1586445508373">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587578002286">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586445508373" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587578002286" />
     <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1587400031984">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
