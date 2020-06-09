@@ -24,7 +24,7 @@ public class Solution2 {
             if (list.size() == 5) {
                 Collections.sort(list);
                 for (int j = 0; j < 5; j++) {
-                    // Преопразуем строку в число и выводим на экран по вострастанию
+                    // Преопразуем число в стороку и выводим на экран по вострастанию
                     System.out.println(list.get(j).toString());
                 }
                 break;
