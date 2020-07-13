@@ -1,15 +1,16 @@
 package ru.ryanair;
 
+import org.junit.Assert;
 import org.junit.Test;
-import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Login {
+public class Login extends WebDriverSettings{
 
     @Test
     public void login() {
-        System.setProperty("webdriver.chrome.driver", "/Users/Ольга/AFTSoft/chromedriver.exe");
-        ChromeDriver driver = new ChromeDriver();
-        driver.get("https://www.ryanair.com/gb/en/");
+        driver.get("https://www.ryanair.com/gb/en");
+        String title = driver.getTitle();
+        Assert.assertTrue(title.equals("Official Ryanair website | Book direct for the lowest fares | Ryanair.com"));
+        driver.quit();
     }
 
 }
