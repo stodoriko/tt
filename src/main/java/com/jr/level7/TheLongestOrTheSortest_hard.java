@@ -33,11 +33,11 @@ public class TheLongestOrTheSortest_hard {
 
         for (String s : arrayList) {
             if (shortString.length() > s.length()) {
-                shortString = s.toString();
+                shortString = s;
             }
 
             if (longString.length() < s.length()) {
-                longString = s.toString();
+                longString = s;
             }
         }
 
@@ -51,8 +51,5 @@ public class TheLongestOrTheSortest_hard {
             }
         }
     }
-
-
-
 
 }
