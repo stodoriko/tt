@@ -34,7 +34,11 @@ public class ROrL_hard {
             }
         }
 
-        for (int k = 0; k < 2; k++) {
+        // создаю интовую переменную для того, чтобы не использовать массив strings во втором цикле, т.к. его длина будет меняться.
+        // удобнее использовать целое число, которое указывает на результирующую длину массива после первого цикла.
+        int afterRemove = strings.size();
+
+        for (int k = 0; k < afterRemove; k++) {
             if ((strings.get(k).contains("р"))&&(strings.get(k).contains("л"))) {
                 continue;
             } else if (strings.get(k).contains("л")) {
