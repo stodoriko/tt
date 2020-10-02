@@ -29,7 +29,7 @@ public class Short {
         for (String s : listAll) {
             if (expMinLength > s.length()) {
                 expMinLength = s.length();
-                expMinString = s.toString();
+                expMinString = s;
             }
         }
 
