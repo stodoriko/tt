@@ -9,7 +9,7 @@ import java.util.Set;
 //        •	Программа должна добавлять в коллекцию 10 строк, согласно условию.
 //        •	Программа должна выводить 10 строк из коллекции на экран, каждую с новой строки.
 
-public class SetPlants {
+public class SetPlants_easy {
     public static void main(String[] args) {
         Set<String> set = new HashSet<>();
         set.add("арбуз");
