@@ -15,7 +15,7 @@ target
 
 .idea
 *.iml
-*.xml
+workspace.xml
 nb-configuration.xml
 nbaction.xml
 /page-factory/
