@@ -11,7 +11,7 @@ import java.util.Map;
 //        •	Метод addCatsToMap() должен добавлять в коллекцию всех котов из массива String[] cats, согласно условию.
 //        •	Программа должна выводить содержимое коллекции на экран, каждую пару через дефис и с новой строки.
 
-public class TenCatsInToMap {
+public class TenCatsInToMap_easy {
     public static void main(String[] args) throws Exception {
         String[] cats = new String[]{"васька", "мурка", "дымка", "рыжик", "серый", "снежок", "босс", "борис", "визя", "гарфи"};
 
