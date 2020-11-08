@@ -11,7 +11,7 @@ package com.jr.level8;
 
 import java.util.*;
 
-public class WeDontNeedRepetitions_hard {
+public class WeDontNeedRepetitions2_hard {
     public static Map<String, String> createMap() {
         Map<String, String> map = new HashMap<>();
         map.put("Лоськов", "Дмитрий");
@@ -57,44 +57,22 @@ public class WeDontNeedRepetitions_hard {
             i--;
         }
 
-        System.out.println("=======================");
-
-        for (int j = 0; j < listOfEquals.size(); j++) {
-            System.out.println(listOfEquals.get(j));
+//передаём оригинальную мапу
+        for (String listOfEqual : listOfEquals) {
+            removeItemFromMapByValue(map, listOfEqual);
         }
-        System.out.println(map.size());
-        System.out.println("=======================");
-
-
-        Iterator<Map.Entry<String, String>> it2 = map.entrySet().iterator();
-        while (it2.hasNext()) {
-            Map.Entry<String, String> pair = it2.next();
-            for (int h = 0; h < listOfEquals.size(); h++) {
-                if (pair.getValue().equals(listOfEquals.get(h))) {
-                    it2.remove();
-                    System.out.println(map.size());
-                }
-            }
-        }
-
-        Iterator<Map.Entry<String, String>> it3 = map.entrySet().iterator();
-        while (it3.hasNext()) {
-            Map.Entry<String, String> pair = it3.next();
-            System.out.println(pair.getKey() + " " + pair.getValue());
-        }
-
-
-
-        removeItemFromMapByValue(map, listOfEquals.get(0));
     }
 
     public static void removeItemFromMapByValue(Map<String, String> map, String value) {
+        System.out.println("--------------");
+        System.out.println(value);
         Map<String, String> copy = new HashMap<>(map);
         for (Map.Entry<String, String> pair : copy.entrySet()) {
             if (pair.getValue().equals(value)) {
                 map.remove(pair.getKey());
             }
         }
+        System.out.println(map.size());
     }
 
     public static void main(String[] args) {
