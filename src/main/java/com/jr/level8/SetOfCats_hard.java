@@ -23,8 +23,7 @@ public class SetOfCats_hard {
 
         Iterator<Cat> iterator = cats.iterator();
 
-            cats.remove(iterator.next());
-
+        cats.remove(iterator.next());
 
 
         printCats(cats);
@@ -39,7 +38,7 @@ public class SetOfCats_hard {
     }
 
     public static void printCats(Set<Cat> cats) {
-        for (Cat cat: cats) {
+        for (Cat cat : cats) {
             System.out.println(cat);
         }
     }
