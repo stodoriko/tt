@@ -8,7 +8,7 @@ package com.jr.JavaSyntax.level9;
     •	Для получения StackTrace воспользуйся Thread.currentThread().getStackTrace().
  */
 
-public class StackTraceOutput {
+public class StackTraceOutput_easy {
     public static void main(String[] args) {
         method1();
     }

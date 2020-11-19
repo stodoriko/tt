@@ -7,7 +7,7 @@ package com.jr.JavaSyntax.level9;
     •	Для получения номера строки, используй метод getLineNumber класса StackTraceElement.
  */
 
-public class WhoCallMe {
+public class WhoCallMe_easy {
     public static void main(String[] args) {
         method1();
     }
