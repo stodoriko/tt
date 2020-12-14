@@ -2,6 +2,7 @@
 *.jar
 *.war
 *.ear
+workspace.xml
 
 # Windows shortcuts
 *.link
@@ -10,11 +11,13 @@
 .classpath
 .factorypath
 target
+workspace.xml
 
 # IntellijIdea files
 
 .idea
 *.iml
+workspace.xml
 nb-configuration.xml
 nbaction.xml
 /page-factory/
