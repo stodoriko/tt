@@ -1,4 +1,4 @@
-package ru.ryanair;
+package ru.ryanair.runner;
 
 import cucumber.api.CucumberOptions;
 import io.cucumber.junit.Cucumber;
@@ -8,9 +8,8 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         monochrome = true,
         features = ("src/test/resources/features"),
-        glue = "ru.ryanair.stepdefs",
-        tags = {"@all"}
-)
+        glue = "ru.ryanair.stepdefs")
+//        tags = {"@first"}
 public class CucumberTest {
 }
 
