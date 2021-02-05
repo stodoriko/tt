@@ -20,7 +20,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-public class WhatIsDateToday_hard {
+public class WhatDateIsToday_hard {
     public static void main(String[] args){
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
