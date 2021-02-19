@@ -4,31 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e83f5fc9-3aea-4d3e-b5bc-967d6b994f06" name="Default Changelist" comment="фывфывы">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/conf.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e83f5fc9-3aea-4d3e-b5bc-967d6b994f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ConfProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ProfilePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level9/ArrayException_easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level9/ArrayException_easy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level9/MapException_easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level9/MapException_easy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pageobjects/elements/menu/MainMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pageobjects/pages/AbstractPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pageobjects/pages/AuthorizationModal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pageobjects/pages/MainPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utils/ProjectUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ryanair/AbstractSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ryanair/CucumberTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ryanair/Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ryanair/WebDriverSettings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ryanair/stepdefs/AuthorizationModalSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ryanair/stepdefs/CommonSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ryanair/stepdefs/MainPageSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tt.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +19,13 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -49,7 +38,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="mavenHome" value="C:\Users\Sergey\IdeaProjects\apache-maven-3.6.3-bin\apache-maven-3.6.3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -62,9 +51,30 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sergey\IdeaProjects\tt" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTest">
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Login.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tt" />
       <extension name="coverage">
@@ -83,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LoginTest" />
         <item itemvalue="JUnit.Login.login" />
       </list>
     </recent_temporary>
@@ -106,7 +117,14 @@
       <option name="presentableId" value="Default" />
       <updated>1613735503527</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DEL_ryanair">
+      <created>1613736640271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613736640271</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,7 +141,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01(логин)" />
-    <option name="LAST_COMMIT_MESSAGE" value="01(логин)" />
+    <MESSAGE value="DEL_ryanair" />
+    <option name="LAST_COMMIT_MESSAGE" value="DEL_ryanair" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/LoginTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/LoginTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
