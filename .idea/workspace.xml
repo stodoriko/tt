@@ -4,79 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e83f5fc9-3aea-4d3e-b5bc-967d6b994f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/webdrivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/webdrivers/yandexdriver.exe" afterDir="false" />
+    <list default="true" id="e83f5fc9-3aea-4d3e-b5bc-967d6b994f06" name="Default Changelist" comment="level8 WashingOfTheFrame">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/ryanair/WebDriverSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/ryanair/WebDriverSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tt.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Users\Sergey\IdeaProjects\apache-maven-3.6.3-bin\apache-maven-3.6.3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1ohOknuanKVUOdug96yLbMGDm9D" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1p95FlwTvgxtIXEJXpGnCrPtdL7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Sergey\IdeaProjects\tt" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.LoginTest">
-    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.LoginTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Login.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tt" />
       <extension name="coverage">
@@ -95,7 +48,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LoginTest" />
         <item itemvalue="JUnit.Login.login" />
       </list>
     </recent_temporary>
@@ -105,35 +57,13 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="01(логин)">
-      <created>1613732047082</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1613732047082</updated>
-    </task>
     <task active="true" id="Default" summary="Default task">
       <changelist id="e83f5fc9-3aea-4d3e-b5bc-967d6b994f06" name="Default Changelist" comment="level8 WashingOfTheFrame" />
-      <created>1613735503527</created>
+      <created>1614582364378</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613735503527</updated>
+      <updated>1614582364378</updated>
     </task>
-    <task id="LOCAL-00002" summary="DEL_ryanair">
-      <created>1613736640271</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1613736640271</updated>
-    </task>
-    <task id="LOCAL-00003" summary="ADD_ryanair (Page Object)">
-      <created>1613739485878</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1613739485878</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,17 +76,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="01(логин)" />
-    <MESSAGE value="DEL_ryanair" />
-    <MESSAGE value="ADD_ryanair (Page Object)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD_ryanair (Page Object)" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
