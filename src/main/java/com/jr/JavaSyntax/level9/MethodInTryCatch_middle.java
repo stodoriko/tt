@@ -6,7 +6,6 @@ package com.jr.JavaSyntax.level9;
 //        Если пользователь ввёл какой-то текст, вместо ввода числа, то метод должен перехватить исключение и вывести на экран все ранее введенные числа в качестве результата.
 //        Числа выводить с новой строки сохраняя порядок ввода.
 
-import cucumber.api.java.sl.In;
 
 import java.io.BufferedReader;
 import java.io.IOException;
