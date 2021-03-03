@@ -9,8 +9,6 @@ package com.jr.JavaSyntax.level9;
     •	Имеющийся код в методе main не удалять.
  */
 
-import org.springframework.beans.NullValueInNestedPathException;
-
 import java.util.HashMap;
 
 public class MapException_easy {

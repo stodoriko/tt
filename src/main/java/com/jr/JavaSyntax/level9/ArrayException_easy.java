@@ -1,6 +1,5 @@
 package com.jr.JavaSyntax.level9;
 
-import org.springframework.core.ConstantException;
 /*
     Требования:
     Программа должна выводить сообщение на экран.
@@ -10,13 +9,13 @@ import org.springframework.core.ConstantException;
     Имеющийся код в методе main не удалять.
  */
 
-public class ArrayException_easy {
-    public static void main(String[] args) {
-        try {
-            int[] m = new int[2];
-            m[8] = 5;
-        } catch (ArrayIndexOutOfBoundsException e) {
-            System.out.println(e);
-        }
-    }
-}
+//public class ArrayException_easy {
+//    public static void main(String[] args) {
+//        try {
+//            int[] m = new int[2];
+//            m[8] = 5;
+//        } catch (ArrayIndexOutOfBoundsException e) {
+//            System.out.println(e);
+//        }
+//    }
+//}
