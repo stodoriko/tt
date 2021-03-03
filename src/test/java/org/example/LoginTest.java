@@ -1,6 +1,5 @@
 package org.example;
 
-import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
@@ -19,7 +18,7 @@ public class LoginTest {
     @BeforeClass
     public static void setup() {
         //определение пути до драйвера и его настройка
-        System.setProperty("webdriver.chrome.driver", ConfProperties.getProperty("chromedriver"));
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Sergey\\IdeaProjects\\tt\\src\\test\\resources\\webdrivers\\yandexdriver.exe");
         //создание экземпляра драйвера
         driver = new ChromeDriver();
         loginPage = new LoginPage(driver);
@@ -52,10 +51,10 @@ public class LoginTest {
     /**
      * осуществление выхода из аккаунта с последующим закрытием окна браузера
      */
-    @AfterClass
-    public static void tearDown() {
-        profilePage.entryMenu();
-        profilePage.userLogout();
-        driver.quit();
-    }
+//    @AfterClass
+//    public static void tearDown() {
+//        profilePage.entryMenu();
+//        profilePage.userLogout();
+//        driver.quit();
+//    }
 }
