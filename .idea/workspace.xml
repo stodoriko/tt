@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e83f5fc9-3aea-4d3e-b5bc-967d6b994f06" name="Default Changelist" comment="level8 WashingOfTheFrame">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level9/ListOfFiveArrays_middle.java" afterDir="false" />
+    <list default="true" id="e83f5fc9-3aea-4d3e-b5bc-967d6b994f06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alghoritms/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level12/MayBeBird_easy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level9/MethodInTryCatch_middle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level9/MethodInTryCatch_middle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tt.iml" afterDir="false" />
+    </list>
+    <list id="09201fcb-a619-4b2d-9723-ef169c22272f" name="level8 WashingOfTheFrame" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level11/Pair_middle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +47,52 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.ListOfFiveArrays_middle">
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alghoritms.BinarySearch" />
+      <module name="tt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alghoritms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ListOfFiveArrays_middle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jr.JavaSyntax.level9.ListOfFiveArrays_middle" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jr.JavaSyntax.level9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MayBeBird_easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jr.JavaSyntax.level12.MayBeBird_easy" />
+      <module name="tt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jr.JavaSyntax.level12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pair_middle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jr.JavaSyntax.level11.Pair_middle" />
+      <module name="tt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jr.JavaSyntax.level12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,9 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.MayBeBird_easy" />
+        <item itemvalue="Application.Pair_middle" />
+        <item itemvalue="JUnit.Login.login" />
         <item itemvalue="Application.ListOfFiveArrays_middle" />
-        <item itemvalue="JUnit.Login.login" />
-        <item itemvalue="JUnit.Login.login" />
       </list>
     </recent_temporary>
   </component>
@@ -95,6 +138,14 @@
       <option name="presentableId" value="Default" />
       <updated>1614582364378</updated>
     </task>
+    <task id="LOCAL-00001" summary="level8 WashingOfTheFrame">
+      <created>1628799931897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628799931897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,7 +162,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="WebDriverSettings" />
-    <option name="LAST_COMMIT_MESSAGE" value="WebDriverSettings" />
+    <MESSAGE value="level8 WashingOfTheFrame" />
+    <option name="LAST_COMMIT_MESSAGE" value="level8 WashingOfTheFrame" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -140,6 +192,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level9/ListOfFiveArrays_middle.java</url>
           <line>28</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/alghoritms/BinarySearch.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/alghoritms/BinarySearch.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/alghoritms/BinarySearch.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/alghoritms/BinarySearch.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/alghoritms/BinarySearch.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/alghoritms/BinarySearch.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
