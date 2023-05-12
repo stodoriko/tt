@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e83f5fc9-3aea-4d3e-b5bc-967d6b994f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/alghoritms/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaCore/level13/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaCore/level14/Hens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_2/Collections/InstanceOf/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tt/java_2/Collections/Upcasting/Upcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaCore/level12/Visitors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="09201fcb-a619-4b2d-9723-ef169c22272f" name="level8 WashingOfTheFrame" comment="" />
@@ -48,7 +44,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Hens">
+  <component name="RunManager" selected="Application.Visitors">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.alghoritms.BubbleSort" />
       <module name="tt" />
@@ -127,29 +123,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Visitors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jr.JavaCore.level12.Visitors" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.ryanair.*" />
+          <option name="PATTERN" value="com.jr.JavaCore.level12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.ryanair" />
-      <option name="MAIN_CLASS_NAME" value="ru.ryanair.Login" />
-      <option name="METHOD_NAME" value="login" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Visitors" />
         <item itemvalue="Application.Hens" />
         <item itemvalue="Application.Interface1" />
         <item itemvalue="Application.Upcasting" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="JUnit.Login.login" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628799931897</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="level14 Hens">
+      <created>1683890730696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683890730696</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,7 +190,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="WebDriverSettings" />
     <MESSAGE value="level8 WashingOfTheFrame" />
-    <option name="LAST_COMMIT_MESSAGE" value="level8 WashingOfTheFrame" />
+    <MESSAGE value="level14 Hens" />
+    <option name="LAST_COMMIT_MESSAGE" value="level14 Hens" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -259,16 +260,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/tt/java_2/Collections/Upcasting/Upcasting.java</url>
           <line>19</line>
           <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaCore/level14/Hens.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaCore/level14/Hens.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
