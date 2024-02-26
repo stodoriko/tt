@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e83f5fc9-3aea-4d3e-b5bc-967d6b994f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaCore/level13/SortFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level4/Sum_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntax/level4/TenTen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/TriangularArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="09201fcb-a619-4b2d-9723-ef169c22272f" name="level8 WashingOfTheFrame" comment="" />
@@ -47,20 +44,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.MultiplicationTable">
-    <configuration name="Hens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jr.JavaCore.level14.Hens" />
-      <module name="tt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jr.JavaCore.level14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TriangularArray">
     <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jr.JavaSyntaxPro.lev6_arrays.MultiplicationTable" />
       <module name="tt" />
@@ -100,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriangularArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jr.JavaSyntaxPro.lev6_arrays.TriangularArray" />
+      <module name="tt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jr.JavaSyntaxPro.lev6_arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Visitors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jr.JavaCore.level12.Visitors" />
       <module name="tt" />
@@ -115,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TriangularArray" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.TenTen" />
         <item itemvalue="Application.Sum_3" />
         <item itemvalue="Application.Visitors" />
-        <item itemvalue="Application.Hens" />
       </list>
     </recent_temporary>
   </component>
@@ -310,19 +307,24 @@
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/MultiplicationTable.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="67" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/TriangularArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/MultiplicationTable.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="68" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/TriangularArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/MultiplicationTable.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="70" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/TriangularArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/TriangularArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
