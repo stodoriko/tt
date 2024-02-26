@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e83f5fc9-3aea-4d3e-b5bc-967d6b994f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/TriangularArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="09201fcb-a619-4b2d-9723-ef169c22272f" name="level8 WashingOfTheFrame" comment="" />
@@ -44,7 +43,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.TriangularArray">
+  <component name="RunManager" selected="Application.TwoDimensionalArray">
     <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jr.JavaSyntaxPro.lev6_arrays.MultiplicationTable" />
       <module name="tt" />
@@ -97,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Visitors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jr.JavaCore.level12.Visitors" />
+    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jr.JavaSyntaxPro.lev6_arrays.TwoDimensionalArray" />
       <module name="tt" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jr.JavaCore.level12.*" />
+          <option name="PATTERN" value="com.jr.JavaSyntaxPro.lev6_arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoDimensionalArray" />
         <item itemvalue="Application.TriangularArray" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.TenTen" />
         <item itemvalue="Application.Sum_3" />
-        <item itemvalue="Application.Visitors" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683893895611</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="JavaSyntaxPro lev6_TriangularArray">
+      <created>1708978569645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708978569646</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +187,8 @@
     <MESSAGE value="level14 Hens" />
     <MESSAGE value="level12 Visitors" />
     <MESSAGE value="level12 Visitors2InstanceOf" />
-    <option name="LAST_COMMIT_MESSAGE" value="level12 Visitors2InstanceOf" />
+    <MESSAGE value="JavaSyntaxPro lev6_TriangularArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaSyntaxPro lev6_TriangularArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -325,6 +332,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/TriangularArray.java</url>
           <line>16</line>
           <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jr/JavaSyntaxPro/lev6_arrays/TwoDimensionalArray.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
